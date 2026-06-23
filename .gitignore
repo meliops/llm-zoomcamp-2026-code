@@ -1,5 +1,6 @@
 .venv
-.env__pycache__/
+__pycache__/
 *.db
 *.db-wal
 *.db-shm
+.env
